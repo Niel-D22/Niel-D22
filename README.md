@@ -28,15 +28,18 @@ I'm currently learning how to build backend applications using:
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & languanges
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Niel-D22&show_icons=true&theme=radical)
-
----
-
-### 💻 My Programming Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Niel-D22&layout=compact&theme=radical)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Niel-D22&show_icons=true&theme=radical" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niel-D22&layout=compact&theme=radical" />
+    </td>
+  </tr>
+</table>
 
 ---
 
