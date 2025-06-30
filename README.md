@@ -33,7 +33,7 @@ I'm focusing on backend development and learning to build APIs using:
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Niel-D22&show_icons=true&theme=radical" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Niel-D22&show_icons=true&theme=radical&count_private=true" />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niel-D22&layout=compact&theme=radical" />
