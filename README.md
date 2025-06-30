@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/Niel-D22/Niel-D22/main/coding.gif" width="300" />
 </p>
 
-<h1 align="center">Hi there 👋</h1>
+<h1 align="center">hallo</h1>
 
 <p align="center">
   I'm an Informatics student who is currently focusing on backend web development.
