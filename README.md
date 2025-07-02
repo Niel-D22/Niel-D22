@@ -5,7 +5,7 @@
 <h1 align="center">hallo</h1>
 
 <p align="center">
-  I'm an Informatics student who is currently focusing on backend web development.
+I am currently learning about how the Backend developer flow works.
 </p>
 
 ---
