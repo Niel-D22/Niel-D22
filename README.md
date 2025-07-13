@@ -43,7 +43,7 @@ I'm focusing on backend development and learning to build APIs using:
 
 ---
 
-### 📫 Let's Connect
+###📫 Let's Connect
 
 - GitHub: [@Niel-D22](https://github.com/Niel-D22)
 - Email: danielwarouw01@gmail.com
