@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/Niel-D22/Niel-D22/main/coding.gif" width="300" />
 </p>
 
-<h1 align="center">Hello</h1>
+<h1 align="center">Helo</h1>
 
 <p align="center">
 I am currently learning about how the Backend developer flow works.
