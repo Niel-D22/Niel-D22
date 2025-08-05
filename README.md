@@ -9,11 +9,6 @@
 I am currently learning about how the Backend developer flow works.
 </p>
 
----
-
-### 👨‍💻 About Me
-
-I'm focusing on backend development and learning to build APIs using:
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
